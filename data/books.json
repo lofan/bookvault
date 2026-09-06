@@ -1,0 +1,610 @@
+[
+  {
+    "id": 1,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "year": 2011,
+    "isbn": "9780374533557",
+    "category": "Psychology",
+    "tags": [
+      "Decision Making",
+      "Bias",
+      "Behavior"
+    ],
+    "emoji": "🧠",
+    "difficulty": 4,
+    "practicalValue": 5,
+    "oneSentenceInsight": "Better decisions begin when you recognize that your first intuitive answer may not be your best one.",
+    "summary": "Daniel Kahneman explains two broad modes of thought: a fast, automatic mode and a slower, effortful mode. He uses research on heuristics, biases, judgment, and choice to show why people can make systematic errors even when they feel confident.",
+    "lessons": [
+      "Human judgment is not automatically rational.",
+      "Fast intuition is useful, but it is vulnerable to predictable biases.",
+      "Important decisions deserve deliberate thinking.",
+      "Confidence is not the same as accuracy.",
+      "Structured processes can reduce recurring decision errors."
+    ],
+    "concepts": [
+      "System 1",
+      "System 2",
+      "Anchoring",
+      "Availability",
+      "Loss Aversion"
+    ],
+    "takeaways": [
+      "Pause before high-stakes decisions.",
+      "Separate evidence from your first impression.",
+      "Use checklists for recurring important decisions.",
+      "Ask what evidence would change your mind."
+    ],
+    "whoShouldRead": [
+      "Investors",
+      "Managers",
+      "Students",
+      "Decision Makers"
+    ],
+    "chapters": [
+      {
+        "title": "The Two Systems",
+        "summary": "Introduces fast intuitive thinking and slower deliberate reasoning."
+      },
+      {
+        "title": "Heuristics and Biases",
+        "summary": "Shows how mental shortcuts can produce systematic judgment errors."
+      },
+      {
+        "title": "Overconfidence",
+        "summary": "Explores why people can be confident while being poorly calibrated."
+      },
+      {
+        "title": "Choices",
+        "summary": "Examines framing, risk, loss aversion, and decision behavior."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "year": 2020,
+    "isbn": "9780857197689",
+    "category": "Finance",
+    "tags": [
+      "Money",
+      "Investing",
+      "Behavior"
+    ],
+    "emoji": "💰",
+    "difficulty": 3,
+    "practicalValue": 5,
+    "oneSentenceInsight": "Financial success is often less about intelligence than about behavior, patience, and staying in the game.",
+    "summary": "Morgan Housel uses stories and observations to explain how behavior, luck, risk, time, and personal history shape financial decisions. The book emphasizes sustainable habits, long-term compounding, and defining what is enough.",
+    "lessons": [
+      "Money decisions are deeply influenced by personal experience.",
+      "Compounding rewards patience.",
+      "Wealth is often the money you do not spend.",
+      "Room for error increases your chance of surviving uncertainty.",
+      "A financial strategy must fit your goals and temperament."
+    ],
+    "concepts": [
+      "Compounding",
+      "Margin of Safety",
+      "Wealth",
+      "Luck",
+      "Behavioral Finance"
+    ],
+    "takeaways": [
+      "Build a meaningful cash buffer.",
+      "Avoid strategies that can permanently knock you out of the game.",
+      "Define what enough means before chasing more.",
+      "Favor sustainable returns over impressive short-term results."
+    ],
+    "whoShouldRead": [
+      "Investors",
+      "Savers",
+      "Entrepreneurs",
+      "Anyone managing money"
+    ],
+    "chapters": [
+      {
+        "title": "No One's Crazy",
+        "summary": "People make financial decisions from different experiences and incentives."
+      },
+      {
+        "title": "Luck & Risk",
+        "summary": "Outcomes contain both skill and randomness."
+      },
+      {
+        "title": "Compounding",
+        "summary": "Small advantages can become enormous when given enough time."
+      },
+      {
+        "title": "Freedom",
+        "summary": "Money can provide control over how you use your time."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "year": 2018,
+    "isbn": "9780735211292",
+    "category": "Self Development",
+    "tags": [
+      "Habits",
+      "Productivity",
+      "Behavior"
+    ],
+    "emoji": "⚛️",
+    "difficulty": 2,
+    "practicalValue": 5,
+    "oneSentenceInsight": "Lasting improvement comes from designing systems that make the right behavior easier to repeat.",
+    "summary": "James Clear presents a practical framework for building good habits and breaking bad ones. The approach focuses on identity, environment, cues, rewards, and small improvements that compound over time.",
+    "lessons": [
+      "Tiny improvements can compound.",
+      "Identity-based habits are more durable than goal-only thinking.",
+      "Make good habits obvious, attractive, easy, and satisfying.",
+      "Environment can be stronger than willpower.",
+      "Consistency matters more than occasional intensity."
+    ],
+    "concepts": [
+      "Identity",
+      "Habit Loop",
+      "Environment",
+      "Compounding",
+      "Systems"
+    ],
+    "takeaways": [
+      "Make the desired behavior visible.",
+      "Start with a version of the habit that takes two minutes or less.",
+      "Pair new habits with existing routines.",
+      "Review your systems weekly."
+    ],
+    "whoShouldRead": [
+      "Students",
+      "Professionals",
+      "Entrepreneurs",
+      "Anyone building habits"
+    ],
+    "chapters": [
+      {
+        "title": "The Fundamentals",
+        "summary": "Explains why small changes can produce remarkable long-term effects."
+      },
+      {
+        "title": "The 1st Law",
+        "summary": "Make the desired behavior obvious."
+      },
+      {
+        "title": "The 2nd Law",
+        "summary": "Make the desired behavior attractive."
+      },
+      {
+        "title": "The 3rd Law",
+        "summary": "Reduce friction and make the behavior easy."
+      },
+      {
+        "title": "The 4th Law",
+        "summary": "Make progress satisfying enough to repeat."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "year": 1949,
+    "isbn": "9780060555665",
+    "category": "Investing",
+    "tags": [
+      "Value Investing",
+      "Risk",
+      "Markets"
+    ],
+    "emoji": "📈",
+    "difficulty": 5,
+    "practicalValue": 5,
+    "oneSentenceInsight": "The investor's edge is not predicting the market; it is demanding a margin of safety and controlling behavior.",
+    "summary": "Benjamin Graham's classic presents a disciplined approach to investing based on valuation, diversification, margin of safety, and emotional control. It distinguishes investment from speculation and treats market volatility as something to manage rather than fear.",
+    "lessons": [
+      "Price and value are not the same.",
+      "A margin of safety protects against errors and uncertainty.",
+      "Market quotations should serve the investor, not control them.",
+      "Temperament is a major investing advantage.",
+      "Discipline matters more than forecasting."
+    ],
+    "concepts": [
+      "Margin of Safety",
+      "Mr. Market",
+      "Intrinsic Value",
+      "Diversification",
+      "Volatility"
+    ],
+    "takeaways": [
+      "Write your investment thesis before buying.",
+      "Define downside risk before focusing on upside.",
+      "Use valuation ranges rather than false precision.",
+      "Do not let market mood dictate your process."
+    ],
+    "whoShouldRead": [
+      "Long-term Investors",
+      "Value Investors",
+      "Finance Students",
+      "Portfolio Managers"
+    ],
+    "chapters": [
+      {
+        "title": "Investment vs Speculation",
+        "summary": "Defines the characteristics of an investment and separates them from speculation."
+      },
+      {
+        "title": "Mr. Market",
+        "summary": "Uses a fictional market partner to explain emotional price movements."
+      },
+      {
+        "title": "Margin of Safety",
+        "summary": "Argues for a buffer between price and estimated value."
+      },
+      {
+        "title": "Investor Temperament",
+        "summary": "Shows why emotional discipline is central to long-term results."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "The Almanack of Naval Ravikant",
+    "author": "Eric Jorgenson",
+    "year": 2020,
+    "category": "Business",
+    "tags": [
+      "Wealth",
+      "Leverage",
+      "Startups"
+    ],
+    "emoji": "🧭",
+    "difficulty": 3,
+    "practicalValue": 5,
+    "oneSentenceInsight": "Build specific knowledge, use leverage responsibly, and design a life where wealth and freedom reinforce each other.",
+    "summary": "A curated collection of Naval Ravikant's ideas about wealth creation, judgment, leverage, specific knowledge, happiness, and long-term thinking. It emphasizes building rather than merely trading time for money.",
+    "lessons": [
+      "Specific knowledge can be difficult to automate or commoditize.",
+      "Leverage can multiply the output of good decisions.",
+      "Long-term relationships and reputation compound.",
+      "Wealth and status are different objectives.",
+      "Freedom requires both financial and psychological independence."
+    ],
+    "concepts": [
+      "Specific Knowledge",
+      "Leverage",
+      "Judgment",
+      "Long-Term Games",
+      "Freedom"
+    ],
+    "takeaways": [
+      "Develop skills that feel natural to you but are rare in the market.",
+      "Look for scalable outputs rather than only hourly work.",
+      "Protect your reputation.",
+      "Optimize for long-term freedom, not short-term status."
+    ],
+    "whoShouldRead": [
+      "Entrepreneurs",
+      "Investors",
+      "Creators",
+      "Career Builders"
+    ],
+    "chapters": [
+      {
+        "title": "Building Wealth",
+        "summary": "Frameworks for creating wealth through ownership, leverage, and specific knowledge."
+      },
+      {
+        "title": "Learning",
+        "summary": "Ideas about reading, judgment, and developing unique skills."
+      },
+      {
+        "title": "Happiness",
+        "summary": "Perspectives on desire, peace of mind, and subjective well-being."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "year": 2014,
+    "isbn": "9780804139298",
+    "category": "Business",
+    "tags": [
+      "Startups",
+      "Innovation",
+      "Strategy"
+    ],
+    "emoji": "🚀",
+    "difficulty": 3,
+    "practicalValue": 5,
+    "oneSentenceInsight": "The biggest opportunities often come from creating something genuinely new rather than copying what already works.",
+    "summary": "Peter Thiel argues that startups should seek technological and strategic breakthroughs rather than incremental competition. The book explores monopoly, secrets, distribution, founders, and the importance of a contrarian but defensible vision.",
+    "lessons": [
+      "Creating something new can be more valuable than copying.",
+      "Distribution is as important as product quality.",
+      "Strong businesses seek durable advantages.",
+      "Contrarian truths can reveal overlooked opportunities.",
+      "A focused market can be a better starting point than a huge generic one."
+    ],
+    "concepts": [
+      "Zero to One",
+      "Monopoly",
+      "Distribution",
+      "Secrets",
+      "Contrarian Thinking"
+    ],
+    "takeaways": [
+      "Identify an overlooked problem.",
+      "Ask what valuable truth few people believe.",
+      "Design a defensible advantage.",
+      "Solve distribution before assuming a great product will spread."
+    ],
+    "whoShouldRead": [
+      "Founders",
+      "Product Leaders",
+      "Investors",
+      "Strategists"
+    ],
+    "chapters": [
+      {
+        "title": "The Challenge of the Future",
+        "summary": "Contrasts incremental progress with creating genuinely new value."
+      },
+      {
+        "title": "Monopoly",
+        "summary": "Explains why durable businesses seek differentiation and market power."
+      },
+      {
+        "title": "Secrets",
+        "summary": "Encourages searching for important truths that remain underexplored."
+      },
+      {
+        "title": "Foundations",
+        "summary": "Examines teams, founders, and the importance of early strategic choices."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Poor Charlie's Almanack",
+    "author": "Charles T. Munger",
+    "year": 2005,
+    "category": "Investing",
+    "tags": [
+      "Mental Models",
+      "Investing",
+      "Wisdom"
+    ],
+    "emoji": "🧩",
+    "difficulty": 5,
+    "practicalValue": 5,
+    "oneSentenceInsight": "Good judgment improves when you build a latticework of mental models and actively avoid predictable mistakes.",
+    "summary": "A collection of speeches, lessons, and ideas associated with Charlie Munger. It emphasizes multidisciplinary thinking, incentives, inversion, patience, temperament, and avoiding stupidity as much as pursuing brilliance.",
+    "lessons": [
+      "Use multiple disciplines to understand complex problems.",
+      "Incentives can strongly shape behavior.",
+      "Inversion is a powerful problem-solving tool.",
+      "Avoiding major mistakes is often more important than seeking clever wins.",
+      "Patience and temperament compound."
+    ],
+    "concepts": [
+      "Mental Models",
+      "Inversion",
+      "Incentives",
+      "Lollapalooza Effects",
+      "Circle of Competence"
+    ],
+    "takeaways": [
+      "Ask how a plan could fail before asking how it could succeed.",
+      "Study incentives whenever people behave unexpectedly.",
+      "Build knowledge across disciplines.",
+      "Stay inside your circle of competence until you have evidence to expand it."
+    ],
+    "whoShouldRead": [
+      "Investors",
+      "Executives",
+      "Decision Makers",
+      "Lifelong Learners"
+    ],
+    "chapters": [
+      {
+        "title": "Mental Models",
+        "summary": "Introduces a multidisciplinary framework for better thinking."
+      },
+      {
+        "title": "Human Misjudgment",
+        "summary": "Explores recurring psychological tendencies and errors."
+      },
+      {
+        "title": "Inversion",
+        "summary": "Shows how thinking backward can expose risks and solutions."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "year": 2016,
+    "isbn": "9781455586691",
+    "category": "Productivity",
+    "tags": [
+      "Focus",
+      "Work",
+      "Attention"
+    ],
+    "emoji": "🎯",
+    "difficulty": 3,
+    "practicalValue": 5,
+    "oneSentenceInsight": "The ability to concentrate without distraction is a competitive advantage in an increasingly noisy world.",
+    "summary": "Cal Newport argues that sustained, distraction-free concentration produces valuable cognitive work. The book presents rules for cultivating deep work, reducing shallow obligations, and building rituals around focused effort.",
+    "lessons": [
+      "Deep concentration is a trainable skill.",
+      "Distraction fragments attention and raises switching costs.",
+      "Rituals make focused work easier to start.",
+      "Shallow work can expand unless deliberately constrained.",
+      "Downtime supports high-quality thinking."
+    ],
+    "concepts": [
+      "Deep Work",
+      "Shallow Work",
+      "Attention Residue",
+      "Rituals",
+      "Digital Minimalism"
+    ],
+    "takeaways": [
+      "Schedule protected focus blocks.",
+      "Remove notifications during demanding work.",
+      "Define a clear outcome for each deep-work session.",
+      "Batch shallow communication."
+    ],
+    "whoShouldRead": [
+      "Knowledge Workers",
+      "Students",
+      "Developers",
+      "Writers"
+    ],
+    "chapters": [
+      {
+        "title": "Deep Work Is Valuable",
+        "summary": "Explains why focused work is increasingly economically valuable."
+      },
+      {
+        "title": "Deep Work Is Rare",
+        "summary": "Shows how modern workplaces can reward distraction and responsiveness."
+      },
+      {
+        "title": "Deep Work Is Meaningful",
+        "summary": "Connects craftsmanship and concentration with satisfaction."
+      },
+      {
+        "title": "Rules",
+        "summary": "Provides practical strategies for cultivating focused work."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "year": 1989,
+    "category": "Self Development",
+    "tags": [
+      "Leadership",
+      "Habits",
+      "Effectiveness"
+    ],
+    "emoji": "🌱",
+    "difficulty": 3,
+    "practicalValue": 5,
+    "oneSentenceInsight": "Effectiveness grows from principles, proactive choices, priorities, and relationships rather than productivity tricks alone.",
+    "summary": "Stephen Covey presents seven habits built around personal responsibility, priorities, mutual benefit, empathetic communication, cooperation, and continuous renewal. The framework moves from private effectiveness to interpersonal effectiveness.",
+    "lessons": [
+      "You can choose your response to circumstances.",
+      "Begin with a clear picture of the person and life you want to build.",
+      "Prioritize important work rather than merely urgent work.",
+      "Seek mutual benefit in relationships.",
+      "Listen to understand before trying to be understood."
+    ],
+    "concepts": [
+      "Proactivity",
+      "Begin with the End",
+      "Priorities",
+      "Win-Win",
+      "Synergy"
+    ],
+    "takeaways": [
+      "Write a personal mission statement.",
+      "Plan around important priorities.",
+      "Have difficult conversations after understanding the other person's perspective.",
+      "Reserve time for learning and renewal."
+    ],
+    "whoShouldRead": [
+      "Leaders",
+      "Managers",
+      "Students",
+      "Professionals"
+    ],
+    "chapters": [
+      {
+        "title": "Private Victory",
+        "summary": "Builds personal responsibility, vision, and priority management."
+      },
+      {
+        "title": "Public Victory",
+        "summary": "Applies the habits to trust, relationships, and cooperation."
+      },
+      {
+        "title": "Renewal",
+        "summary": "Emphasizes continuous improvement across physical, mental, social, and personal dimensions."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Outlive",
+    "author": "Peter Attia",
+    "year": 2023,
+    "category": "Science",
+    "tags": [
+      "Longevity",
+      "Health Science",
+      "Prevention"
+    ],
+    "emoji": "⏳",
+    "difficulty": 4,
+    "practicalValue": 5,
+    "oneSentenceInsight": "A long life is not the only goal; the aim is to preserve meaningful function for as long as possible.",
+    "summary": "Peter Attia discusses a preventive approach to longevity, emphasizing the major drivers of chronic disease, exercise, nutrition, sleep, emotional health, and individualized risk assessment. It frames healthspan as a central objective rather than focusing only on lifespan.",
+    "lessons": [
+      "Healthspan and lifespan are related but not identical goals.",
+      "Prevention benefits from acting before disease becomes obvious.",
+      "Exercise is a major pillar of long-term function.",
+      "Risk assessment should be individualized and evidence-based.",
+      "Long-term health requires sustainable habits rather than quick fixes."
+    ],
+    "concepts": [
+      "Healthspan",
+      "Lifespan",
+      "Metabolic Health",
+      "Strength",
+      "Zone 2"
+    ],
+    "takeaways": [
+      "Build sustainable exercise habits.",
+      "Track meaningful health indicators with qualified professionals.",
+      "Prioritize sleep and recovery.",
+      "Think in decades rather than short-term transformations."
+    ],
+    "whoShouldRead": [
+      "Adults interested in longevity",
+      "Fitness-minded readers",
+      "Science readers",
+      "People planning long-term health"
+    ],
+    "chapters": [
+      {
+        "title": "The Four Horsemen",
+        "summary": "Introduces major chronic disease categories that shape longevity."
+      },
+      {
+        "title": "Exercise",
+        "summary": "Explores aerobic capacity, strength, stability, and movement."
+      },
+      {
+        "title": "Nutrition",
+        "summary": "Discusses nutrition as an individualized tool rather than a single universal diet."
+      },
+      {
+        "title": "Sleep and Emotional Health",
+        "summary": "Highlights recovery and psychological health as parts of long-term well-being."
+      }
+    ]
+  }
+]

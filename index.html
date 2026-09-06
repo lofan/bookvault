@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BookVault — Discover. Understand. Apply.</title>
+<meta name="description" content="A modern book discovery and learning library.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="nav">
+  <a class="brand" href="#"><span>📚</span> BookVault</a>
+  <nav>
+    <a href="#library">Library</a><a href="#categories">Categories</a><a href="#about">About</a>
+    <button id="themeBtn" class="icon-btn" aria-label="Toggle dark mode">☾</button>
+  </nav>
+</header>
+<main>
+<section class="hero">
+  <div class="hero-copy">
+    <span class="eyebrow">BOOK DISCOVERY + BOOK INTELLIGENCE</span>
+    <h1>Discover books.<br><em>Understand ideas.</em></h1>
+    <p>Search your library, understand the core ideas, and turn every book into practical lessons.</p>
+    <div class="search-wrap"><span>⌕</span><input id="search" type="search" placeholder="Search books, authors, ISBN, tags..." autocomplete="off"></div>
+    <div id="stats" class="stats"></div>
+  </div>
+</section>
+<section id="categories" class="section">
+  <div class="section-head"><div><span class="eyebrow">BROWSE</span><h2>Explore categories</h2></div><button id="clearFilter" class="text-btn">Clear filter</button></div>
+  <div id="categoriesList" class="chips"></div>
+</section>
+<section id="library" class="section">
+  <div class="section-head"><div><span class="eyebrow">LIBRARY</span><h2>Books</h2></div><span id="resultCount" class="muted"></span></div>
+  <div id="bookGrid" class="book-grid"></div>
+</section>
+<section id="about" class="section about">
+  <div><span class="eyebrow">THE IDEA</span><h2>More than a book catalogue.</h2></div>
+  <p>BookVault adds a learning layer to your library: original summaries, key lessons, concepts, practical takeaways and chapter notes beside every book.</p>
+</section>
+</main>
+<div id="modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="detailTitle">
+  <div class="modal-card"><button id="closeModal" class="close" aria-label="Close">×</button><div id="bookDetail"></div></div>
+</div>
+<footer>BookVault · Personal learning library · <span id="year"></span></footer>
+<script src="app.js"></script>
+</body>
+</html>
